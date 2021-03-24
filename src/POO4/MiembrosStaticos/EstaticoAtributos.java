@@ -6,8 +6,8 @@ public class EstaticoAtributos {
     private String fraseNoStatic = "Desde clase"; // Variable del objeto individualmente.
 
     public static void main(String[] args) {
-        /*
 
+        /*
         Caracteristica importante: Cuando una variable es estatica, no hace falta instanciarla, ver Clase "Ejercicios.java" para entenderlo mejor.
 
         Cuando una variable es estatica, todo cambio que yo haga repercute en la variable, independientemente de en donde este.
@@ -16,6 +16,7 @@ public class EstaticoAtributos {
         Cuando es estatico ya no le pertenece la variable a cada objeto individualmente. Pasa a ser de la clase.
 
          */
+
         EstaticoAtributos objeto1 = new EstaticoAtributos();
         EstaticoAtributos objeto2 = new EstaticoAtributos();
 

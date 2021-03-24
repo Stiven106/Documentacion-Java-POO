@@ -3,7 +3,7 @@ package POO8.Polimorfismo;
 public class VehiculoTurismo extends Vehiculo {
     private int nPuertas;
 
-    public VehiculoTurismo(int nPuertas, String matricula, String marca, String modelo) {
+    public VehiculoTurismo(String matricula, String marca, String modelo,int nPuertas) {
         super(matricula, marca, modelo);
         this.nPuertas = nPuertas;
     }

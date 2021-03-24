@@ -6,7 +6,7 @@ public class test {
         Vehiculo misVehiculos[] = new Vehiculo[4]; // Se crea un objeto tipo array de tipo Vehiculo, se reserva memoria para 4 vehiculos (Vehiculo[4])
 
         misVehiculos[0] = new Vehiculo("PJL52E", "Ferrari", "98"); // Se instancia el objeto con la clase padre: Vehiculo
-        misVehiculos[1] = new VehiculoTurismo(4, "PSD203", "Audi", "P14"); // Se instancia el objeto con la clase hija: VehiculoTurismo
+        misVehiculos[1] = new VehiculoTurismo("PSD203", "Audi", "P14",4 ); // Se instancia el objeto con la clase hija: VehiculoTurismo
         misVehiculos[2] = new VehiculoDeportivo("k125", "KJS234", "Toyota", 500);// Se instancia el objeto con la clase hija: VehiculoDeportivo
         misVehiculos[3] = new VehiculoFurgoneta("213sd", "Toyota", "KJS234", 2000);// Se instancia el objeto con la clase hija: VehiculoFurgoneta
 

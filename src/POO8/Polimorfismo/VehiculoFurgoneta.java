@@ -13,6 +13,7 @@ public class VehiculoFurgoneta extends Vehiculo{
     }
 
     public String mostrarDatos() {
+
         return "Marca: " + marca + "\nMatricula: " + matricula + "\nModelo: " + modelo
                 + "\nCarga: " + carga;
     }

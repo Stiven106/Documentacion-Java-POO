@@ -15,7 +15,7 @@ Estructura: public void metodo (Argumentos) {Cuerpo}
 public => modificador de acceso
 void => valor de retorno
 metodo => nombre del metodo
-argumentos => datos con los cuales este metodo va a trabajar
+argumentos => datos con los cuales este metodo va a trabajar, cuyas variables definidas dentro seran locales.
 
 */
 
@@ -53,7 +53,7 @@ argumentos => datos con los cuales este metodo va a trabajar
 
     Ejemplo argumentos - invocacion del metodo:
 
-    objeto.metodo(10, "parametro2");
+    objeto.metodo(10, "argumento2");
 
 
      */
