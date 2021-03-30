@@ -29,7 +29,7 @@ public class Teoria {
                 Exception in thread "main" java.lang.ArithmeticException: / by zero
                 at Excepciones.Concepto.Excepcion.main(Excepcion.java:20)
 
-            Hay varios tipos de excepciones, este sola es una de ellas, para mas info leer la teoria.
+            Hay varios tipos de excepciones, este sola es una de ellas, para mas info leer la API.
 
             Una ves el error sale por consola, el programa deja de compilar. Por tanto el resto de codigo no se ejecuta asi este bueno.
 

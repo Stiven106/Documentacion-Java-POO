@@ -4,8 +4,11 @@ import java.util.*; // Este es el que debe importarse. NO java.awt.
 
 /*
     Las listas: Guardan el orden a medida que se van agregando elementos. Permite la duplicacion de elementos. Utiliza .add para ingresar elementos.
+
     Set: No mantienen un orden, y no se pueden duplicar elementos. Utiliza .add para ingresar elementos
-    Map: No mantienen un orden, no se pueden duplicar elementos. Utiliza .put para ingresar elementos. keySet() - values() son Metodos para imprimir.
+
+    Map: No mantienen un orden, no se pueden duplicar elementos. Se puede transcribir un elemento, utilizando su llave, y luego cambiando su valor.
+    Utiliza .put para ingresar elementos. keySet() - values() son Metodos para imprimir.
 
  */
 public class TestColecciones {

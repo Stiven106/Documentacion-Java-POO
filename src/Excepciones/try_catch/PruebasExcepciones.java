@@ -33,7 +33,7 @@ public class PruebasExcepciones {
 
     public void leerArchivos2() {
 
-        try { // En el try se debe poner all lo que puede generar una excepcion
+        try { // En el try se debe poner todo lo que puede generar una excepcion
             leerArchivos();
 
         } catch (FileNotFoundException ex) {// Si el try logra encontrar una excepcion, se ejcuta el catch.

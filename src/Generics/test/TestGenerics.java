@@ -12,7 +12,7 @@ public class TestGenerics {
         ClaseGenerica<Integer> objetoInt = new ClaseGenerica<>(15); // Tipo Integer
         objetoInt.obtenerTipo();
 
-        ClaseGenerica<String> objectoString = new ClaseGenerica<>("Debe coincidir el tipo, con el objeto."); // Tipo String
+        ClaseGenerica<String> objectoString = new ClaseGenerica<>("Debe coincidir el tipo, con el parametro."); // Tipo String
         objectoString.obtenerTipo();
 
 

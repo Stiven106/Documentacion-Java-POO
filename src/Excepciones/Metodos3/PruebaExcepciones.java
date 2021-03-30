@@ -2,6 +2,8 @@ package Excepciones.Metodos3;
 
 /*
 Tema: Declaracion de las excepciones en un metodo.
+
+FileNotFoundException => Excepcion para archivo no encontrado.
  */
 
 import java.io.File;
@@ -16,9 +18,9 @@ public class PruebaExcepciones {
 
         /*
         Como leer metodo con: throws FileNotFoundException {}:
-            throws: En algun momento este metodo puede tener una excepcion(throws) del tipo FileNotFoundException
+            Se lee: En algun momento este metodo puede tener una excepcion(throws) del tipo FileNotFoundException
             De manera que declaramos la excepcion cuando no queremos capturarla o evitarla en este metodo.
-            Si no que vamos a utilizar otro metodo para ello (leer archivo2).
+            Si no que vamos a utilizar otro metodo para ello (metodo "leer archivo2").
 
                 Nota: Se puede cambiar FileNotFoundException por IOException que es su clase padre.
                 Nota2: Podemos poner mas excepciones, simplemente hay que poner una <,> y poner el nombre:

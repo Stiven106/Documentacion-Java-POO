@@ -11,15 +11,15 @@ package Interfaces.accesodatos;
 
         Diferencias entre clase abstracta y interface
 
-        - Cuando las características son parecidas en nuestra clase,
-        entonces esto quiere decir que tenemos una relacion de herencia. Por ende lo mas conveniente es utilizar una clase abstracta.
+        Abstracta: Cuando las características son parecidas en nuestra clase,entonces esto quiere decir que tenemos una relacion de herencia.
+        Por ende lo mas conveniente es utilizar una clase abstracta.
 
-        - Cuando los comportamientos son parecidos, entonces es mas conveniente utilizar una interface.
+        Interface: Cuando los comportamientos son parecidos, entonces es mas conveniente utilizar una interface.
      */
 
 public interface IAccesoDatos {
 
-    int MAX_REGISTRO = 10; // Es una constante en automatico => Regla de las interfaces. Una constante siempre se debe asignar un valor.
+    int MAX_REGISTRO = 10; // Es una constante en automatico <=> Regla de las interfaces <=> Una constante siempre se debe asignar un valor.
 
     void insertar(); // Metodo abstracto en automatico.
 
@@ -28,9 +28,5 @@ public interface IAccesoDatos {
     void actualizar();
 
     void eliminar();
-
-
-
-
 
 }

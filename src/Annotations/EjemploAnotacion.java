@@ -15,7 +15,7 @@ public class EjemploAnotacion {
         p.setPrecio(1000L);
         Field[] atributos = p.getClass().getDeclaredFields();
 
-        Arrays.stream(atributos).
+
 
     }
 }

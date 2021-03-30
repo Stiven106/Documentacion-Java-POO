@@ -1,12 +1,12 @@
 package Excepciones.Jerarquia2;
 
 /*
-Superclase Throwable extiende => Exception extiende => IOException = Excepciones No Verificadas
-Superclase Throwable extiende => Exception extiende => RunTimeExcepcion = Excepciones Verificadas
+Superclase Throwable extiende => Exception extiende => IOException = Excepciones Verificadas
+Superclase Throwable extiende => Exception extiende => RunTimeExcepcion = Excepciones No Verificadas
 Superclase Throwable extiende => error extiende = Errores de hardware. No depende del programador.
 
 IOException: Tiene que ver con las entradas y salidas del programa. Por lo general sucede por que un usuario x elimina un
-archivo de texto, el cual apuntaba la ruta a leer para que funcione el programa. Por tanto en un principio funcionaba bien,
+archivo de texto, el cual apuntaba a la ruta a leer para que funcione el programa. Por tanto en un principio funcionaba bien,
 y por error de un usuario deja de funcionar. Por tanto son Verificadas.
 
 RunTimeExcepcion: Pequeñas fallas que si dependen del programador, por ejemplo dividir un numero entero entre 0 1/0.
