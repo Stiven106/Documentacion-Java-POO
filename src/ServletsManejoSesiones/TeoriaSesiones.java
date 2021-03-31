@@ -53,33 +53,7 @@ public class TeoriaSesiones {
             *getValue/setValue: Especifica el valor asociado con el nombre de la Cookie
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
      */
-
-
-
-
 
 
 }
