@@ -1,4 +1,4 @@
-package ServletsCabecerosHTTP;
+package ServletsCabecerosYRequestHTTP;
 
 public class Teoria {
 
@@ -13,13 +13,12 @@ public class Teoria {
 
         *El recurso solicitado (http://mydomain.com/recurso)
 
-        *El nvegador que se utilizo en la peticion (mozilla, MSIE, etc.)
+        *El navegador que se utilizo en la peticion (mozilla, MSIE, etc.)
 
         *Entre varios cabeceros mas...
 
 
             Metodos de la clase HttpServletRequest:
-
 
         getHeader() => Nos permite procesar un cabecero a la vez.
         getHeaders() => Nos permite recuperar todos los cabeceros en una peticion Http.
@@ -28,7 +27,7 @@ public class Teoria {
         Metodos mas especializados
 
         getCookies() => Preferencias guardadas del usuario al utilizar nuestro sitio web.
-        getAuthType() y getRemoteUser() => Sirven para procesar la seguridad en el API de los Servlets y JSPs
+        getAuthType() y getRemoteUser() => Sirven para procesar la seguridad en el API de los Servlets y JSPs.
         getContentLength() => Permiten obtener el largo de nuestra peticion.
         getContentType() => Permiten obtener el largo de nuestra peticion.
         getDateHeader() => Tiene que ver con fechas.
@@ -39,15 +38,6 @@ public class Teoria {
         getResquestUri() => Permite obtener la URI con el cual se solicito el recurso WEB
         getQueryString() => Permite recuperar los parametros que vienen posterior al signo de interrogacion en una peticion Get
         getProtocol() => Nos indica que protocolo utilizo, por ejemplo: Http o Ftp, entre otros...
-
-
-
-
-
-
-
-
-
 
 
 
