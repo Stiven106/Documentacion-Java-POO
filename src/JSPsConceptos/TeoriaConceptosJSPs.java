@@ -8,7 +8,7 @@ public class TeoriaConceptosJSPs {
         por medio de etiquetas, conocidas como tags. Los JSPs son utilizados como componentes de presentacion, es decir, nos permite mostrar la
         informacion procesada como pueden ser los Servlets.
 
-                    BENEFICIOS DE LOS JSPs
+                    BENEFICIOS DE LOS JSPS
 
         *Enfocarse en escribir codigo HTML, haciendo mas facil el mantenimiento de la capa de presentacion.
 
@@ -16,7 +16,7 @@ public class TeoriaConceptosJSPs {
 
         *Separa el codigo de presentacion del codigo de Java.
 
-        *Cada miembro del equipo de desarrolo se puede enfocar en distintas tareas, al separar las responsabilidades.
+        *Cada miembro del equipo de desarrollo se puede enfocar en distintas tareas, al separar las responsabilidades.
 
                     FUNCIONES DE UN JSP
 
@@ -24,7 +24,7 @@ public class TeoriaConceptosJSPs {
 
         Se utiliza como un componente de presentacion.
 
-        Var a permitir mostrar la informacion que reciban del Servlet, y a su vez enviar informacion al Servlet.
+        Va a permitir mostrar la informacion que reciban del Servlet, y a su vez enviar informacion al Servlet.
 
                 CICLO DE VIDA DE UN JSP
 
@@ -44,7 +44,8 @@ public class TeoriaConceptosJSPs {
             Servlet:Un Servlet utiliza codigo Java e internamente tenemos que agregar codigo HTML.
             JSPs: El JSP esta enfocado en utilizar codigo HTML e insertar codigo Java.
 
-        Por eso es que utilizar un Servlet y agregar contenido Html no se recomienda. Pero Un JSPs si se recomienda.
+        Por eso es que utilizar un Servlet y agregar contenido Html no se recomienda. Pero Un JSPs si se recomienda, debido a que esta pensado
+        para ello.
 
      */
 
