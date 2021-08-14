@@ -97,3 +97,25 @@ c
 3src/POO6/SobreEscrituraMiembros/Override/Perro.java,4\0\409e3bcc6064efc8eb4e6c5f2655faceeecf8aed
 d
 4src/POO6/SobreEscrituraMiembros/Override/Animal.java,e\a\eab365405f76f5eecce1faa3473dde75f498246f
+V
+&src/POO7/ClasesAbstractas/SerVivo.java,e\e\ee2131b1fab1d7204c27c07805d6be44dc7ada29
+U
+%src/POO7/ClasesAbstractas/Animal.java,c\5\c54bd0cfdea18c6e9cabfe463c0b5831b49dc97f
+U
+%src/POO7/ClasesAbstractas/Planta.java,a\0\a04197ae2aeaa68fc32453e0f7b331bf4c5bd82a
+^
+.src/POO7/ClasesAbstractas/AnimalCarnivoro.java,4\7\47669e726f146dfe809570553e10331d0cbeffe7
+^
+.src/POO7/ClasesAbstractas/AnimalHerbivoro.java,1\6\1605bfe4be2ecde5dffde4d30468910f708f1052
+S
+#src/POO7/ClasesAbstractas/test.java,e\8\e821698c4356659f50ebfc662811fc4b083bd9f3
+b
+2src/POO6/SobreEscrituraMiembros/Override/test.java,1\4\145429c9c89d1568c6d06662e0e222965290ccbb
+^
+.src/POO4/MiembrosStaticos/EstaticoMetodos.java,9\3\93c052dcb0ba411d4bb1a62707057032c8ebb0af
+O
+src/POO8/Polimorfismo/test.java,a\6\a6ea89ea94867adf139d53f3de5b09604b32a4de
+X
+(src/PatronesDeDiseño/TeoriaDeCapas.java,b\e\be15257a48bfb19d82746f9d9d03bb439269baa9
+T
+$src/PatronesDeDiseño/PatronDao.java,f\5\f5ff2b7eb5871c3e0f024fdfe712d32b92eda501

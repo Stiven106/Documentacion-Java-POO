@@ -3,6 +3,8 @@ package PatronesDeDiseño;
 public class TeoriaDeCapas {
     /*
 
+    Encontraras: Teoria de capas, cohesion y acomplamiento, y introduccion a los patrones de diseño (definicion de Design Patterns).
+
                 Capa de datos Java JDBC
 
         En una arquitectura de Java empresarial es comun que la aplicacion se divida en varias capas, y cada una es responsable de realizar
@@ -21,6 +23,8 @@ public class TeoriaDeCapas {
         *Capa Datos: Obtiene y guarda informacion de las fuentes de datos, como son: Una BD, archivo, etc.
 
             Las capas se intercomunican para procesar la informacion, desde que hace una peticion hasta que el sistema responde al usuario.
+
+        *Capa de persistencia: Para mas informacion consultar dentro de este mismo paquete la clase llamada PatronDao.
 
         *Caracteristicas:
 

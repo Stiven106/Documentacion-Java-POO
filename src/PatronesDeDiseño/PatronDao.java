@@ -5,6 +5,7 @@ public class PatronDao {
     /*
                                 INTRODUCCION
 
+            (Data Access Object)
 
         La mayoría de las aplicaciones, tienen que persistir datos en algún momento, ya sea serializándolos, guardándolos en una base de datos relacional,
         o una base de datos orientada a objetos, etc. Para hacer esto, la aplicación interactúa con la base de datos.

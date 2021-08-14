@@ -1,0 +1,7 @@
+
+R
+java:S1610"7Convert the abstract class "SerVivo" into an interface.(ú˜—Àùÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(¯•Ç€
+o
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(¯•Ç€
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½²þÚûÿÿÿÿ
